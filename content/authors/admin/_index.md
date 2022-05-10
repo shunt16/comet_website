@@ -14,12 +14,12 @@ organizations:
     url: 'https://www.npl.co.uk/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Pieter De Vis works in the Climate and Earth Observation Group at the UK's National Physical Laboratory. His expertise lies in atmospheric correction, the propagation of uncertainties through a measurement function, and uncertainties in model fitting.
+bio: Pieter works in the Climate and Earth Observation Group at the UK's National Physical Laboratory. His expertise lies in atmospheric correction, the propagation of uncertainties through a measurement function, and uncertainties in model fitting.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Atmospheric Correction
+  - Uncertainty propagation
+  - Retrievals
 
 education:
   courses:
