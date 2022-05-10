@@ -21,8 +21,8 @@ organizations:
 bio: Sam's work aims to improve the quality of and confidence in satellite Earth observations, using insights from metrology.
 
 interests:
-  -  quality of and confidence in satellite Earth observations
-  -  sensor-to-sensor calibration
+  -  Quality of and confidence in satellite Earth observations
+  -  Sensor-to-sensor calibration
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
 ---
 
 Samuel E. Hunt received the master’s degree in physics from the University of Durham, Durham, U.K., in 2014.
-He was a Trainee with European Space Agency, European Space Research and Technology Centre, Noordwijk, The Netherlands. He was a part of the Sentinel-3/OLCI Performance Team. In 2016, he joined the National Physical Laboratory, Teddington, U.K., where he is currently a Research Scientist focusing on the satellite Earth Observation metrology. His work aims to improve the quality of and confidence in satellite Earth observations, using insights from metrology.
+He was a Trainee with European Space Agency, European Space Research and Technology Centre, Noordwijk, The Netherlands. He was a part of the Sentinel-3/OLCI Performance Team. In 2016, he joined the National Physical Laboratory, Teddington, U.K., where he is currently a Senior Research Scientist focusing on the satellite Earth Observation metrology. His work aims to improve the quality of and confidence in satellite Earth observations, using insights from metrology.
