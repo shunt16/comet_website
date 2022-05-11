@@ -10,9 +10,9 @@ main:
   - name: Tools
     url: tools
     weight: 20
-#  - name: News
-#    url: post
-#    weight: 30
+  - name: News
+    url: post
+    weight: 30
   - name: People
     url: people
     weight: 40
