@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Welcome to CoMet
       content: Take a look at what we're working on...
       align: center
       background:
@@ -23,25 +23,25 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Punpy️
+      content: Propagate uncertainties through any python measurement function
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Obsarray
+      content: Handle uncertainty and covariance information and store them in NetCDF files.
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
         media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+      #link:
+      #  icon: graduation-cap
+      #  icon_pack: fas
+      #  text: Join Us
+      #  url: ../contact/
 ---
